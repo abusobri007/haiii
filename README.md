@@ -47,24 +47,25 @@
          <img src="https://feeldreams.github.io/peach11.gif" id="fotostiker2"/>
          <img src="https://feeldreams.github.io/peachhug.gif" id="fotostiker3"/>
      </div>
-     <p id="halo" class="halo">Haiii NiNa Cantikkkk!</p>
+     <p id="halo" class="halo">Hai, Kamu!</p>
      <!-- Konten Pesan Setelah Aksi -->
-     <p id="halo2" class="halo sty2">Munduran dikit cantiknya kelewatan🌟</p>
-     <p id="halo3" class="halo sty3">Semoga tuhan selalu melindungi senyummu yang manis itu wkwk!</p>
-     <p id="tanggal" class="halo sty3"></p>
+     <p id="halo2" class="halo sty2">Selamat Ulang Tahun! 🎉</p>
+     <p id="halo3" class="halo sty3">Harapanku di hari spesialmu, semoga kamu selalu bahagia dan apa yang di semogakan tersemogakan <3</p>
+     <!-- Tanggal Otomatis Sesuai Hari Ini --><p id="tanggal" class="halo sty3"></p>
+     
      <!-- Konten Pesan Akhir -->
-     <p id="kalimatbawah">Aku adalah orang yang selalu senang melihat mu baik baik sajaa ❤️</p> 
-     <p id="kalimatbawah2" class="sembunyi">Tetaplah tersenyum manis seperti itu ❤️</p> 
-     <p id="kalimatbawah3" class="sembunyi">Apapun yang berkaitan dengan mu aku selalu menyukainnya  ❤️</p>
+     <p id="kalimatbawah"> Kiw Kiw ❤️</p> 
+     <p id="kalimatbawah2" class="sembunyi">Selamat Ulang Tahun Ecaaaaaa:)</p> 
+     <p id="kalimatbawah3" class="sembunyi">Panjang Umur Dan Sehat Selau Yaaaaaaaaaa:)</p>
        
      <div><blockquote id='bq' data-text='&#9829;'>
 
        <!-- Konten Pembukaan -->
-       <p id="kalimat">Hai, aku cuman mau bilang.</p>
-       <p id="kalimatb"> Setelah melewati semua kelelahan hari hari sebelumnya. 💪</p>
-       <p id="kalimatc">Janagan lupa cari kesenangan kesenangan yang membuat kamu ingin hidup sehari lagi dan sehari lagi. 😊</p>
-       <p id="kalimatd">Bumi ini luas sekali ,tapi untungnya kita ketemu wkwk .</p>
-       <p id="kalimate">Jangan lupa untuk selalu tersenyum ya cantikkkkkk! 😊</p>
+       <p id="kalimat">Aku Cuma Mau Bilang Nih..</p>
+       <p id="kalimatb"> Di Usia Yang Mu yang Terus Bertambah Ini 🤭</p>
+       <p id="kalimatc">Semoga Kamu Selalu kelilingi Oleh Orang Orang Baik 🥺</p>
+       <p id="kalimatd">Semoga  Diberikan Rezeki Yang Lancar dan Dilancarkan Segala Urusan  ,</p>
+       <p id="kalimate">Dan Bisa Menjadi Kebanggaan Orang Tua Mu 😍</p>
        <p id="kalimatf">Klik LOVE di Samping Kiri ya!</p>
        
        <p id="opsL">Klik untuk Lanjut</p>
@@ -75,7 +76,7 @@
      <div id="Tombol"><a id="By">&#128140; Balas</a></div>
 
      <!-- Pesan yang dikirim ke WhatsApp -->
-     <span id="pesanWA" class="sembunyi"></span>
+     <span id="pesanWA" class="sembunyi">Aww, Selamat Ulang Tahun juga!</span>
      
    </div>
 
